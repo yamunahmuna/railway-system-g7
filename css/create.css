@@ -1,0 +1,30 @@
+.header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.info label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.info input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+.info button {
+    background-color: #4b4276;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.info button:hover {
+    background-color: #625693;
+}
